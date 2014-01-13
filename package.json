@@ -1,0 +1,12 @@
+{
+	"name": "node-gearman-csv",
+    "description": "Simple Gearman service that imports .csv files and it's written in Node.js",
+    "version": "0.1.0",
+    "author" : "Virgil Ratiu",
+	"dependencies": {
+	  "underscore": "*",
+	  "node-mysql": "*",
+	  "csv": "*",
+	  "node-gearman": "*"
+	}
+}

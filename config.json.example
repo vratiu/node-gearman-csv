@@ -1,0 +1,14 @@
+{
+  "gearman": {
+    "port": "4730",
+    "hostname": "127.0.0.1"
+  },
+  "mysql": {
+    "hostname": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  },
+  "table": "airports",
+  "chunk_size": 100
+}
